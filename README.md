@@ -1,5 +1,5 @@
 # SmallExercisesC
-some smaller sets of problems solved with C. Here are summarys off the problems they are solving
+some smaller sets of problems solved with C. Here are summaries off the problems they are solving
 
 **Kpermutations.c** - The set [1, 2, 3, ..., n] contains a total of n! unique permutations. Given n and k, the program returns the kth permutation sequence.
 
